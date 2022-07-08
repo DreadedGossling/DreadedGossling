@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DreadedGossling
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on some project
 - 📫 Reach me by ping a mail to ravirockskkr@gmail.com 
 
